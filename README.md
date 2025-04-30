@@ -4,3 +4,4 @@
 
 ## Создал тест-кейс для тестирования регистрации, логина и каталога для проекта "Интернет-Магазин"
 ### https://app.qase.io/print/project/G10?filter=%7B%7D&suite_id=53&sort_by=position
+### [Tkachenko Vladimir Test-Case.pdf](https://github.com/user-attachments/files/19984781/Tkachenko.Vladimir.Test-Case.pdf)
