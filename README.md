@@ -5,3 +5,8 @@
 ## Создал тест-кейс для тестирования регистрации, логина и каталога для проекта "Интернет-Магазин"
 ### https://app.qase.io/print/project/G10?filter=%7B%7D&suite_id=53&sort_by=position
 ### [Tkachenko Vladimir Test-Case.pdf](https://github.com/user-attachments/files/19984781/Tkachenko.Vladimir.Test-Case.pdf)
+
+
+## Завел баг-репорты для модулей регистрации, логина и каталога для проекта "Интернет-Магазин"
+### [YouTrack export V.Tkachenko.xlsx](https://github.com/user-attachments/files/20011815/YouTrack.export.V.Tkachenko.xlsx)
+### [Qase TestRun V.Tkachenko.pdf](https://github.com/user-attachments/files/20011818/Qase.TestRun.V.Tkachenko.pdf)
