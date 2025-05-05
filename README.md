@@ -8,5 +8,5 @@
 
 
 ## Завел баг-репорты для модулей регистрации, логина и каталога для проекта "Интернет-Магазин"
-### [YouTrack export V.Tkachenko.xlsx](https://github.com/user-attachments/files/20011815/YouTrack.export.V.Tkachenko.xlsx)
+### [YouTrack export V.Tkachenko 2.xlsx](https://github.com/user-attachments/files/20035194/YouTrack.export.V.Tkachenko.2.xlsx)
 ### [Qase TestRun V.Tkachenko.pdf](https://github.com/user-attachments/files/20011818/Qase.TestRun.V.Tkachenko.pdf)
