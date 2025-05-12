@@ -10,3 +10,8 @@
 ## Завел баг-репорты для модулей регистрации, логина и каталога для проекта "Интернет-Магазин"
 ### [YouTrack export V.Tkachenko 2.xlsx](https://github.com/user-attachments/files/20035194/YouTrack.export.V.Tkachenko.2.xlsx)
 ### [Qase TestRun V.Tkachenko.pdf](https://github.com/user-attachments/files/20011818/Qase.TestRun.V.Tkachenko.pdf)
+
+
+## Дополнил тест-кейс для тестирования моделей корзины и оплаты для проекта "Интернет-Магазин"
+### https://app.qase.io/print/project/G10?filter=%7B%7D&suite_id=141&sort_by=position
+### [QASE 2.0 Vladimir Tkachenko.pdf](https://github.com/user-attachments/files/20166296/QASE.2.0.Vladimir.Tkachenko.pdf)
